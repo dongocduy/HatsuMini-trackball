@@ -9,8 +9,6 @@
 #define FN  2
 #define HOTKEY  3
 
-
-
 / {
     
 
